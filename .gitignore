@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+.env
+fusion-report-*.md
+!examples/*.md

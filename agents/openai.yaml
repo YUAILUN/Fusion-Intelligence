@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fusion Intelligence"
+  short_description: "Multi-lens research panel: ground in evidence, run independent perspectives, fuse into a calibrated answer."
+  brand_color: "#4F46E5"
+
+policy:
+  allow_implicit_invocation: true
